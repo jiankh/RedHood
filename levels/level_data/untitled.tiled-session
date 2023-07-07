@@ -1,0 +1,79 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/Jian/Desktop/RedPirate - Copy/levels/level_data/level_0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/Jian/Desktop/RedPirate - Copy/levels/level_data/level_0.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1902,
+                "y": 371.99999999999994
+            }
+        },
+        "C:/Users/Jian/Desktop/RedPirate - Copy/levels/tilesets/arrows.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirate - Copy/levels/tilesets/background.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirate - Copy/levels/tilesets/enemies.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirate - Copy/levels/tilesets/player.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirate - Copy/levels/tilesets/terrain.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirateTiles/level_data/tilesets/SET1_bakcground_day1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirateTiles/level_data/tilesets/arrow.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirateTiles/level_data/tilesets/boartile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirateTiles/level_data/tilesets/playertile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirateTiles/level_data/tilesets/spikes.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirateTiles/level_data/tilesets/start64.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirateTiles/level_data/tilesets/tileground.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jian/Desktop/RedPirateTiles/level_data/tilesets/tileground2.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Jian/Desktop/RedPirate - Copy/levels/0",
+    "last.imagePath": "C:/Users/Jian/Desktop/RedPirateTiles",
+    "map.height": 11,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 60,
+    "openFiles": [
+        "C:/Users/Jian/Desktop/RedPirate - Copy/levels/level_data/level_0.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "C:/Users/Jian/Desktop/RedPirate - Copy/levels/level_data/level_0.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
